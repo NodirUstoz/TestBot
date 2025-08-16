@@ -1,2 +1,2 @@
 # TestBot
-Testlash uchun Bot
+Test uchun Bot
